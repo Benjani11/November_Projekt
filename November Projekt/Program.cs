@@ -6,7 +6,23 @@ namespace November_Projekt
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            
         }
     }
+
+   public class Card
+   {
+
+   }
+
+   public class Dealer
+   {
+
+   }
+
+   public class Player
+   {
+       
+   }
+    
 }
